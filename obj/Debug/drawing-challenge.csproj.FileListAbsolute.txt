@@ -1,0 +1,9 @@
+c:\users\paul\documents\visual studio 2015\Projects\drawing-challenge\drawing-challenge\bin\Debug\drawing-challenge.exe.config
+c:\users\paul\documents\visual studio 2015\Projects\drawing-challenge\drawing-challenge\obj\Debug\drawing-challenge.csprojResolveAssemblyReference.cache
+c:\users\paul\documents\visual studio 2015\Projects\drawing-challenge\drawing-challenge\obj\Debug\drawing_challenge.Form1.resources
+c:\users\paul\documents\visual studio 2015\Projects\drawing-challenge\drawing-challenge\obj\Debug\drawing_challenge.Properties.Resources.resources
+c:\users\paul\documents\visual studio 2015\Projects\drawing-challenge\drawing-challenge\obj\Debug\drawing-challenge.csproj.GenerateResource.Cache
+c:\users\paul\documents\visual studio 2015\Projects\drawing-challenge\drawing-challenge\bin\Debug\drawing-challenge.exe
+c:\users\paul\documents\visual studio 2015\Projects\drawing-challenge\drawing-challenge\bin\Debug\drawing-challenge.pdb
+c:\users\paul\documents\visual studio 2015\Projects\drawing-challenge\drawing-challenge\obj\Debug\drawing-challenge.exe
+c:\users\paul\documents\visual studio 2015\Projects\drawing-challenge\drawing-challenge\obj\Debug\drawing-challenge.pdb
